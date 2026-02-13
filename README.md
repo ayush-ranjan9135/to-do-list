@@ -26,7 +26,11 @@ JavaScript – Functionality and logic
 <b>Project Structure</b>
 to-do-list/
 │
+
 ├── index.html     # Main HTML file
+
 ├── styles.css     # Styling file
+
 ├── app.js         # JavaScript logic
+
 └── .gitattributes
