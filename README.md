@@ -24,7 +24,9 @@ CSS – Styling and layout
 JavaScript – Functionality and logic
 
 <b>Project Structure</b>
+
 to-do-list/
+
 │
 
 ├── index.html     # Main HTML file
